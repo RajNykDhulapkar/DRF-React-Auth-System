@@ -236,6 +236,3 @@ SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = config(
 SOCIAL_AUTH_GOOGLE_OAUTH2_SCOPE = ['https://www.googleapis.com/auth/userinfo.email',
                                    'https://www.googleapis.com/auth/userinfo.profile', 'openid']
 SOCIAL_AUTH_GOOGLE_OAUTH2_EXTRA_DATA = ['first_name', 'last_name']
-
-
-# g_cliet_id = 251299012034-msoap5tpak9j0vtel77luc0g4ntkvu8r.apps.googleusercontent.com
